@@ -14,12 +14,10 @@ This Food Ordering App is a simple frontend project that enables the user to add
   <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="itelliJ" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />   
-</p>
+</p><br/>
 
 
-
-
-## what's Included
+## What's Included
 Directories and Files Structure
 
 ```
