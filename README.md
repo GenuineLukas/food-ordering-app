@@ -18,7 +18,7 @@ This Food Ordering App is a simple frontend project that enables the user to add
 ## what's Included
 Directories and Files Structure
 
-'''
+''''
 src/
 ├── assets/
 │   └── matcha.jpg
@@ -60,7 +60,7 @@ src/
 ├── index.tsx
 └── index.css
 
-'''
+''''
 
 ## Creators 
 - [@genuinelukas](https://github.com/GenuineLukas)
