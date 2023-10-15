@@ -5,6 +5,7 @@ This Food Ordering App is a simple frontend project that enables the user to add
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gDVUyfiM3MI/0.jpg)](https://www.youtube.com/watch?v=gDVUyfiM3MI)
 
+
 ## Languages and Tools
 <p>
   <img align="left" alt="typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -14,6 +15,7 @@ This Food Ordering App is a simple frontend project that enables the user to add
   <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="itelliJ" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />   
 </p>
+
 
 ## what's Included
 Directories and Files Structure
@@ -60,6 +62,7 @@ src/
 ├── index.tsx
 └── index.css
 ```
+
 
 ## Creators 
 - [@genuinelukas](https://github.com/GenuineLukas)
