@@ -2,7 +2,7 @@ import React from 'react';
 import {itemType} from "./CartProvider";
 
 const CartContext = React.createContext<{
-    items: any[];
+    items: itemType[];
     totalAmount: number;
     addItem: (item: itemType) => void;
     removeItem: (id: string) => void;

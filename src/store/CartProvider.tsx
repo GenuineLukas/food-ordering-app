@@ -15,6 +15,7 @@ export type itemType = {
     amount: number,
     id: string,
     name: string,
+    key?:string,
 }
 
 type actionType = {

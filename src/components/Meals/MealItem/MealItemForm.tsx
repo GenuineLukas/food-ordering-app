@@ -1,6 +1,6 @@
 import React,{useRef, useState} from 'react';
 import Input from "../../UI/Input";
-import styles from './MealIteForm.module.css'
+import styles from "./MealItemForm.module.css";
 
 type MealItemFormProps = {
     id: string,
@@ -17,6 +17,7 @@ const MealItemForm = ({id, onAddToCart} : MealItemFormProps) => {
             const enteredAmountNumber = +enteredAmount;
 
             if(enteredAmount.trim().length === 0 || enteredAmountNumber < 1 || enteredAmountNumber > 5){
+                setIsAmountValid(false);
                 return;
             }
             onAddToCart(enteredAmountNumber);
