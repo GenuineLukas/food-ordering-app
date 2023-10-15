@@ -16,7 +16,9 @@ This Food Ordering App is a simple frontend project that enables the user to add
   <img align="left" alt="itelliJ" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />   
 </p>
 
-<br/>
+
+
+
 ## what's Included
 Directories and Files Structure
 
