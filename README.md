@@ -2,7 +2,7 @@
 #  🍵🍃 Food Ordering App
 
 
-##Introduction
+## Introduction
 
 
 This Food Ordering App is a simple frontend project that enables the user to add/remove items to the cart.
