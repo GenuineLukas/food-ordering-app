@@ -31,9 +31,7 @@ This Food Ordering App is a simple frontend project that enables the user to add
   <img align="left" alt="firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </p>
 
-
-
-
+<br/>
 ## What's Included
 Directories and Files Structure
 ```
