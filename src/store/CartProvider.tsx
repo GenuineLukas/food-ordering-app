@@ -24,6 +24,7 @@ type actionType = {
     item?: itemType,
 }
 
+
 const defaultCartState = {
     items: [],
     totalAmount: 0
