@@ -48,7 +48,9 @@ src/
 │   │    ├── Cart.module.css   
 │   │    ├── CartIcon.tsx
 │   │    ├── CartItem.tsx
-│   │    └── CartItem.module.css
+│   │    ├── CartItem.module.css
+│   │    ├── Checkout.tsx
+│   │    └── Checkout.module.css
 │   ├── Layout
 │   │    ├── Header.tsx
 │   │    ├── Header.module.css
