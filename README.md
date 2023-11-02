@@ -32,6 +32,10 @@ This Food Ordering App is a simple frontend project that enables the user to add
 </p>
 
 <br/>
+
+
+
+
 ## What's Included
 Directories and Files Structure
 ```
